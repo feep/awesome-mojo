@@ -1,5 +1,6 @@
+Ooh, ooh. Got my playground login. Bye for now, gonna be busy playing. Contributions welcome.
 
-> Mojo🔥 is awesome.
+> Mojo🔥: so awesome it wears sunglasses to protect you.
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
@@ -21,6 +22,9 @@ And, thanks.
 - [Product launch keynote (Mojo intro)](https://www.youtube.com/watch?v=-3Kf2ZZU-dg)
 - [Discord](https://discord.com/invite/modular)
 
+## Unofficial links
+
+- [FAQ](/faq.md)
 
 ## Articles
 - [Mojo might be the biggest thing to happen in programming for decades](https://www.fast.ai/posts/2023-05-03-mojo-launch.html)
