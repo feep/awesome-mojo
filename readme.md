@@ -15,6 +15,7 @@ Generally try to use the title of the page as the link text. If you make a PR, p
 And, thanks.
 
 ## Official Modular links
+
 - [Homepage](https://www.modular.com/mojo)
 - [Docs](https://docs.modular.com/mojo/)
 - [FAQ](https://docs.modular.com/mojo/faq.html)
@@ -27,5 +28,9 @@ And, thanks.
 - [FAQ](/faq.md)
 
 ## Articles
+
 - [Mojo might be the biggest thing to happen in programming for decades](https://www.fast.ai/posts/2023-05-03-mojo-launch.html)
 
+## Tools
+
+- [Using langchain, deeplake and openai to create a Q&A on the Mojo lang programming manual](https://github.com/ngmisl/mojo-qa)
