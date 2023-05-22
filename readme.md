@@ -30,6 +30,7 @@ And, thanks.
 ## Articles
 
 - [Mojo might be the biggest thing to happen in programming for decades](https://www.fast.ai/posts/2023-05-03-mojo-launch.html)
+- [Mojo: The Future of AI Programming 🔥](https://codeconfessions.substack.com/p/mojo-the-future-of-ai-programming)
 
 ## Tools
 
